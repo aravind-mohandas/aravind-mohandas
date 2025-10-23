@@ -31,17 +31,19 @@ At [Amagi Media Labs](https://www.amagi.com), I build production-grade ML pipeli
 
 ## 🧩 Selected Projects  
 
-### 🎥 Automated Media Artwork Generation  
-Combined **heuristics + LLMs** to generate artwork and thumbnails for large media catalogs.  
-→ Now in **alpha** with pilot customers, replacing manual selection with scalable automation.  
+### 🎶 [Google Summer of Code: Konnakol for TidalCycles](https://github.com/tidalcycles/konnakol-gsoc)
+Developed a **Haskell-based system** to formalize and generate *Konnakol* (South Indian rhythmic syllables) compositions.  
+- Implemented pattern generation, validation (for rhythmic correctness and musicality), and visualization.  
+- Integrated with **TidalCycles** for real-time audio performance and live demos.  
+- Enabled unrestricted cycle and complexity support, opening new possibilities for computational rhythm generation.  
 
-### 🗞️ Real-Time Content Agent  
-Developed an **agentic framework using LangGraph** to create live news snippets and semantic chapters from 10+ concurrent streams.  
-→ Enabled **real-time content packaging** with modular agents.  
+---
 
-### 🎧 Multimodal Ad-Break Precision  
-Built and deployed a **multimodal (audio-video-text)** model using OpenL3 and text embeddings.  
-→ Improved ad-break precision by **30%** after A/B testing in production.  
+### 🧮 [Zero to Hero – Neural Networks from Scratch](https://github.com/aravind-mohandas/karpathy-zero-to-hero)
+A from-scratch reimplementation and extension of Andrej Karpathy’s *Zero to Hero* series.  
+- Built foundational ML components — Linear layers, BatchNorm, backpropagation, and optimizers — without external frameworks.  
+- Experimented with training simple networks on toy datasets to understand deep learning internals.  
+- Currently extending to attention-based architectures for a deeper exploration of LLM fundamentals.  
 
 ---
 
